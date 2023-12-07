@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "title": "leo",
+      "author": "das",
+      "id": 3
+    },
+    {
+      "title": "kumbha",
+      "author": "bhagat",
+      "id": 4
+    },
+    {
+      "title": "a",
+      "author": "b",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
